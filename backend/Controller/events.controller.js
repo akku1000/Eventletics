@@ -47,7 +47,7 @@ const getorgevents=async(req,res)=>{
 const createEvent=async(req,res)=>{
    try {
       const {title,description,date,location}=req.body;
-      console.log(req.body)
+     // console.log(req.body)
       if(!title||!description||!date||!location){
          throw new Apierror(400,"please enter all the fields in event")
       }
