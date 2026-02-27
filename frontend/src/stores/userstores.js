@@ -63,7 +63,7 @@ signup:async({name,email,password,confirmpassword,role})=>{
  createevent:async({title,description,date,location})=>{
          set({loading:true})
          try {
-            const res=await axios.post("/events/createevent",{title,description,date,location});
+            const res=await axios.post("/events/createevent",{title,description,date,location},{withCredentials:true});
             //set({event:res.data,loading:false})
             //console.log(res.data)
             return toast.success(res.data)
@@ -85,7 +85,7 @@ allevent:async()=>{
 registerevent:async(eventid)=>{
     // console.log(eventid)
     try {
-        const res=await axios.post(`/events/register/${eventid}`)
+        const res=await axios.post(`/events/register/${eventid}`,{withCredentials:true})
         toast.success(res.data.message)
          set((state) => ({
       event: state.event.map((ev) =>
@@ -100,7 +100,7 @@ registerevent:async(eventid)=>{
     }
 },unregister:async(eventid)=>{
     try {
-        const res=await axios.post(`/events/unregister/${eventid}`);
+        const res=await axios.post(`/events/unregister/${eventid}`,{withCredentials:true});
         toast.success(res.data.message)
         set((state) => ({
       event: state.event.map((ev) =>
@@ -120,7 +120,7 @@ registerevent:async(eventid)=>{
 },
 deleteevent:async(eventid)=>{
      try {
-        const res=await axios.delete(`/events/deleteEvent/${eventid}`);
+        const res=await axios.delete(`/events/deleteEvent/${eventid}`,{withCredentials:true});
         toast.success(res.data.message)
      } catch (error) {
          toast.error(error.response.data.message)
