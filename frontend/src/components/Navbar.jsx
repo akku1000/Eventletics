@@ -1,13 +1,11 @@
 import React from 'react'
 import {Link} from 'react-router-dom'
-import * as LucideIcons from "lucide-react";
 import { useNavigate } from "react-router-dom";
 import { CiLogout } from "react-icons/ci";
 import { LuLogIn } from "react-icons/lu";
 import { FaUserPlus } from "react-icons/fa";
 import { userstore } from '../stores/userstores';
 import { LuUsersRound } from "react-icons/lu";
-import { div, span } from 'framer-motion/client';
 
 const Navbar = () => {
   const {user,logout}=userstore();
