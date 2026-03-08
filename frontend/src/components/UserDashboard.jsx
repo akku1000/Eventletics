@@ -7,9 +7,7 @@ import { FaRegCalendarCheck } from "react-icons/fa6";
 import { FiMapPin } from "react-icons/fi";
 import { CiUser } from "react-icons/ci";
 import { userstore } from "../stores/userstores";
-import { IoIosAddCircleOutline } from "react-icons/io";
-import { a } from "framer-motion/client";
-import { use } from "react";
+
 
 const UserDashboard = () => {
   const { user, event, registerevent, unregister, allevent,searchevent } = userstore();
