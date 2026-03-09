@@ -1,8 +1,6 @@
 import React from "react";
 import { useState } from "react";
 import { Link } from "react-router-dom";
-import { motion } from "framer-motion";
-import { form } from "framer-motion/client";
 import { useNavigate } from 'react-router-dom';
 import { userstore } from "../stores/userstores";
 
