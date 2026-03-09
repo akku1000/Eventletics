@@ -17,7 +17,7 @@ signup:async({name,email,password,confirmpassword,role})=>{
         return toast.error("Passwords do not match")
     }
     try {
-        const res=await axios.post('/auth/signup',{name,email,password,role},{withCredentials:true});
+        const res=await axios.post('/auth/signup',{name,email,password,role});
         //console.log(res)
         set({user:res.data,loading:false});
     } catch (error) {
@@ -30,7 +30,7 @@ signup:async({name,email,password,confirmpassword,role})=>{
     //console.log(name,email,password,confirmpassword);
     console.log(role)
     try {
-        const res=await axios.post('/auth/login',{email,password,role},{withCredentials:true});
+        const res=await axios.post('/auth/login',{email,password,role});
         // console.log(res.data.role)
         set({user:res.data,loading:false});
     } catch (error) {
