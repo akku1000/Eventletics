@@ -55,7 +55,7 @@ const signup = async (req, res) => {
       throw new Apierror(400, "Please Enter all the fields");
     }
 
-    const userexist = await User.findOne({ $or: [{ name }, { email }] });
+    const userexist = await User.findOne({email});
 
     if (userexist) {
       return res.status(400).json({ message: "User already exists" });
