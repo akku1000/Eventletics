@@ -51,7 +51,7 @@ const signup = async (req, res) => {
     const { name, email, password, role } = req.body;
     //  console.log(name,email,password);
 
-    if (name === "" || email === "" || password === "") {
+    if (!name|| !email  || !password) {
       throw new Apierror(400, "Please Enter all the fields");
     }
 
