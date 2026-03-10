@@ -9,10 +9,10 @@ import { LuUsersRound } from "react-icons/lu";
 
 const Navbar = () => {
   const {user,logout}=userstore();
-  console.log(user)
-  console.log(user?.role)
+  // console.log(user)
+  // console.log(user?.role)
   const isAdmin=user?.role==="organiser";
-  console.log(isAdmin)
+  // console.log(isAdmin)
    const navigate = useNavigate();
 
   return (

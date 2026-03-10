@@ -20,7 +20,7 @@ signup:async({name,email,password,confirmpassword,role})=>{
         const res=await axios.post('/auth/signup',{name,email,password,role});
        // console.log(res.data)
         //console.log(res.data.user)
-        set({user:res.data.user,loading:false});
+        set({user:res.data,loading:false});
     } catch (error) {
         set({loading:false})
         return toast.error(error.response.data.message)
