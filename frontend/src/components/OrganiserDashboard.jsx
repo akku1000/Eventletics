@@ -267,9 +267,8 @@ const OrganiserDashboard = () => {
                     <div className="flex items-center text-emerald-400 text-sm">
                       {/* <Users className="w-4 h-4 mr-2 text-green-600" /> */}
                       <CiUser className="w-4 h-4 mr-2 text-white"/>
-                      <span>Registered</span>
+                      <span> {event.participants.length} </span>
                     </div>
-                    {/* {event.registeredUsers.length}  */}
                   </div>
 
                 </div>

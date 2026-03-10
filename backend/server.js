@@ -9,6 +9,7 @@ import cookieParser from "cookie-parser"
 dotenv.config()
 // console.log(process.env.ACCESS_TOKEN_SECRET)
 // console.log(process.env.REFRESH_TOKEN_SECRET)
+// origin: "https://eventletics.vercel.app",
 connectDB()
 const app=express();
 app.use(cors({
