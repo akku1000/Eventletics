@@ -1,7 +1,7 @@
 import {create} from "zustand"
 import axios from "../lib/axios"
 import {toast} from "react-hot-toast"
-import { predict } from "../../../backend/Controller/predict.controller"
+
 
 export const userstore=create((set,get)=>({
     user:null,
