@@ -3,8 +3,18 @@ from pydantic import BaseModel
 import pickle
 import pandas as pd
 import os
+from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI()
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],   # you can restrict later
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
 
 BASE_DIR = os.path.dirname(__file__)
 
