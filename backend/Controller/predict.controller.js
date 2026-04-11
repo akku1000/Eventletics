@@ -2,7 +2,7 @@ const predict = async (req, res) => {
   try {
     const { sex, age, height, weight } = req.body;
 
-    const result = await axios.post("http://localhost:8000/predict", {
+    const result = await axios.post("https://eventletics.onrender.com/predict", {
       Sex: sex,
       Age: Number(age),
       Height: Number(height),
