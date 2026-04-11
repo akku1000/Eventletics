@@ -1,3 +1,4 @@
+import axios from "axios";
 const predict = async (req, res) => {
   try {
     const { sex, age, height, weight } = req.body;
