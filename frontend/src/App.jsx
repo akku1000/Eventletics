@@ -6,11 +6,10 @@ import SignUpPage from './pages/SignupPage';
 import LoginPage from './pages/LoginPage';
 import UserDashboard from './components/UserDashboard';
 import OrganiserDashboard from './components/OrganiserDashboard';
-import Prediction from './components/Prediction';
 import { Toaster } from 'react-hot-toast';
 import { userstore } from "./stores/userstores";
 import LoadingSpinner from './components/LoadingSpinner';
-
+import Prediction from './components/Prediction';
 function App() {
   const {user,checkAuth,allevent,event}=userstore();
   // console.log(event)
@@ -66,7 +65,7 @@ function App() {
         <Route path='/login' element={user ? <Navigate to='/'/> : <LoginPage />}/>
         <Route path='/user-dashboard' element={<UserDashboard  onRegisterEvent={handleRegisterEvent}/>}/>
         <Route path='/organiser-dashboard' element={<OrganiserDashboard />}/>
-         {/* <Route path='/prediction' element={<Prediction user={user}/>} /> */}
+         <Route path='/prediction' element={<Prediction/>} />
 
        </Routes>
     </div>
