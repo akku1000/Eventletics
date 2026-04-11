@@ -1,6 +1,6 @@
 import {Router} from 'express'
 import {protectRoute} from '../middleware/auth.middleware.js'
-import {predict} from '../controllers/predict.controller.js'
+import {predict} from '../Controller/predict.controller.js'
 const router=Router();
 
 router.get('/',protectRoute,predict);

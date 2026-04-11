@@ -139,7 +139,7 @@ searchevent:async(searchQuery)=>{
 },
 predict:async({sex,age,height,weight})=>{
     try {
-        const res=await axios.get("/predict",{sex,age,height,weight},{withCredentials:true});
+        const res=await axios.get("/predict/",{sex,age,height,weight},{withCredentials:true});
         console.log(res.data)
         return res.data
     } catch (error) {
