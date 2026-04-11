@@ -2,6 +2,7 @@
 import dotenv from "dotenv"
 import userRouter from "./Routes/user.routes.js"
 import eventsRouter from "./Routes/event.routes.js"
+import predictRouter from "./Routes/predict.routes.js"
 import cors from "cors"
 // import cartRouter from "./Routes/cart.routes.js"
 import connectDB from "./db/db.js"
@@ -22,7 +23,7 @@ app.use(cookieParser());
 
 app.use("/api/auth",userRouter)
 app.use("/api/events",eventsRouter);
-// app.use("/api/cart",cartRouter);
+app.use("/api/predict",predictRouter);
 
 const PORT=process.env.PORT||5000
 

@@ -1,6 +1,7 @@
 import {create} from "zustand"
 import axios from "../lib/axios"
 import {toast} from "react-hot-toast"
+import { predict } from "../../../backend/Controller/predict.controller"
 
 export const userstore=create((set,get)=>({
     user:null,
@@ -135,6 +136,14 @@ searchevent:async(searchQuery)=>{
   } catch (error) {
     toast.error(error.response.data.message)
   }
+},
+predict:async({sex,age,height,weight})=>{
+    try {
+        const res=await axios.get("/predict",{sex,age,height,weight},{withCredentials:true});
+        return res.data
+    } catch (error) {
+        toast.error(error.response.data.message)
+    }
 }
 
 }))
