@@ -12,8 +12,8 @@ const predict = async (req, res) => {
     res.json(result.data);
 
   } catch (error) {
-    console.error(error.message);
-    res.status(500).json({ message: "Error occurred while predicting" });
+
+    res.status(500).json({ message: "Error making prediction", error: error.message });
   }
 };
 
