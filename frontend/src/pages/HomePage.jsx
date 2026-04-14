@@ -29,7 +29,7 @@ const HomePage = () => {
 
           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8" >
             <div className=" bg-gray-900 p-8 rounded-2xl shadow-lg transition delay-150 duration-300 ease-in-out hover:-translate-y-1 hover:scale-110 border border-emerald-400">
-              <div className="w-14 h-14 bg-emerald-400 rounded-xl flex items-center justify-center mb-6">
+              <div className="w-14 h-14 bg-emerald-100 rounded-xl flex items-center justify-center mb-6">
                     <FaRegCalendarCheck/>
               </div>
               <h3 className="text-xl font-bold text-emerald-400 mb-3">One-Tap Register</h3>
