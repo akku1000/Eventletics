@@ -30,7 +30,7 @@ const HomePage = () => {
               <h2 className="text-4xl md:text-5xl font-bold text-emerald-600 mb-4">
                 Everything You Need to Win
               </h2>
-              <p className="text-lg text-gray-600 max-w-2xl mx-auto">
+              <p className="text-lg text-black max-w-2xl mx-auto">
                 Powerful features designed for both competitors and event organizers
               </p>
             </div>
@@ -44,7 +44,7 @@ const HomePage = () => {
                   <FaRegCalendarCheck />
                 </div>
                 <h3 className="text-xl font-bold mb-3">One-Tap Register</h3>
-                <p className="text-gray-600 leading-relaxed">
+                <p className="text-black leading-relaxed">
                   Register for events instantly with a single tap. No complex forms, just your name and you're in.
                 </p>
               </div>
@@ -55,7 +55,7 @@ const HomePage = () => {
                   <IoTrendingUp />
                 </div>
                 <h3 className="text-xl font-bold mb-3">Win Prediction</h3>
-                <p className="text-gray-600 leading-relaxed">
+                <p className="text-black leading-relaxed">
                   Get AI-powered predictions of your winning chances based on your profile and event timing.
                 </p>
               </div>
@@ -66,7 +66,7 @@ const HomePage = () => {
                   <IoMdTrophy />
                 </div>
                 <h3 className="text-xl font-bold mb-3">Competitive Events</h3>
-                <p className="text-gray-600 leading-relaxed">
+                <p className="text-black leading-relaxed">
                   Browse and join competitive events across multiple categories. Find your perfect challenge.
                 </p>
               </div>
@@ -77,7 +77,7 @@ const HomePage = () => {
                   <FiUsers />
                 </div>
                 <h3 className="text-xl font-bold mb-3">Event Management</h3>
-                <p className="text-gray-600 leading-relaxed">
+                <p className="text-black leading-relaxed">
                   Organizers can create and manage events with detailed information and track registrations.
                 </p>
               </div>
