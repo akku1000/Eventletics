@@ -96,7 +96,7 @@ const Prediction = () => {
         {result && (
           <div className="mt-6 text-white">
             
-            <h3 className="text-xl font-bold text-emerald-400 text-center">
+            <h3 className="text-xl font-bold gap-2 text-emerald-400 text-center">
               <span className="text-white">Winning Probability</span>:
               {result.winning_probability}%
             </h3>
