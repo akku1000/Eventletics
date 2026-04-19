@@ -97,10 +97,12 @@ const Prediction = () => {
           <div className="mt-6 text-white">
             
             <h3 className="text-xl font-bold text-emerald-400 text-center">
+              Winning Probability:
               {result.winning_probability}%
             </h3>
 
             <div className="mt-4 space-y-2">
+              Advice:
               {result.report.map((line, i) => (
                 <p key={i}>• {line}</p>
               ))}
