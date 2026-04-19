@@ -137,9 +137,9 @@ searchevent:async(searchQuery)=>{
     toast.error(error.response.data.message)
   }
 },
-predict:async({sex,age,height,weight})=>{
+predict:async({sex,age,height,weight,bestTime,avgTime,hours})=>{
     try {
-        const res=await axios.post("/predict",{sex,age,height,weight},{withCredentials:true});
+        const res=await axios.post("/predict",{sex,age,height,weight,bestTime,avgTime,hours},{withCredentials:true});
         console.log(res.data)
         return res.data
     } catch (error) {

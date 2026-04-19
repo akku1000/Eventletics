@@ -1,0 +1,911 @@
+ID,Name,Sex,Age,Height,Weight,BestTime_100m,AverageTime_100m,training_hours_per_week,Medal
+1,Matthew Duncan Abeysinghe,M,20,180,74,50.72,50.84,10.4,0
+2,"Matthew ""Matt"" Abood",M,30,197,92,47.88,51.36,23.0,1
+3,Bourhan Abro,M,21,180,70,53.62,54.97,8.3,0
+4,Javier Carlos Acevedo,M,18,182,68,52.77,53.635,14.7,0
+5,Natalie Cammile Adams (-Brannan),F,24,173,65,59.18,59.23,15.3,0
+6,Nathan Ghar-Jun Adrian,M,27,198,100,48.02,48.945,30.75,1
+7,Jasper Aerents,M,23,191,86,51.93,54.49,9.25,0
+8,Evelina Afoa,F,17,162,60,59.88,60.53,16.9,0
+9,Yannick Agnel,M,24,202,90,54.75,55.59,12.4,0
+10,Ai Yanhan,F,14,168,54,58.42,60.17,12.6,0
+11,Ahmed Akram Abbas Mahmoud,M,19,188,80,53.34,53.695,15.1,0
+12,Mary Al-Atrash,F,22,170,57,58.53,58.65,19.3,0
+13,Nada Mohamed Abdulzaher Mohamed Al-Bedwawi,F,18,162,53,56.65,56.96,15.5,0
+14,Noah Abdalaziz Al-Khulaifi,M,17,190,86,54.27,55.16,13.2,0
+15,Fatema Abdul Muhsin Al-Mahmeed,F,17,167,60,61.29,61.75,20.5,0
+16,Yaaqoub Al-Saadi,M,20,175,62,54.55,54.77,24.1,0
+17,Markel Alberdi Sarobe,M,24,187,76,50.85,51.04,14.8,0
+18,Jasmine Alkhaldi,F,23,180,60,57.29,57.64,16.2,0
+19,Fatim Alkrmova,F,14,175,60,62.37,62.65,6.0,0
+20,Martin Allikvee,M,21,182,77,57.67,57.77,12.8,0
+21,Brandonn Pierry Cruz de Almeida,M,19,186,73,52.4,54.17,11.1,0
+22,Kaio Mrcio Ferreira Costa de Almeida,M,31,177,75,52.99,54.52,19.7,0
+23,Malin Therse Alshammar,F,38,180,64,60.85,61.03,11.1,0
+24,Mal Ambonguilat,M,18,170,65,54.73,54.83,18.6,0
+25,An Se-Hyeon,F,20,168,57,55.28,56.735,10.8,0
+26,Haley Danita Anderson,F,24,178,68,60.86,61.03,22.2,0
+27,Sofya Denisovna Andreyeva,F,18,178,64,57.44,57.48,28.1,0
+28,Viktoriya Olegovna Andreyeva,F,24,190,74,57.23,59.69,11.633333333333333,0
+29,Vyacheslav Dmitriyevich Andrusenko,M,24,194,85,52.01,52.254999999999995,15.25,0
+30,Rami Anis,M,25,178,78,52.25,52.790000000000006,17.6,0
+31,Tomomi Aoki,F,21,164,55,60.88,61.23,13.9,0
+32,Nada Mohammed Wafa S Arakji,F,21,163,59,59.6,60.8,16.7,0
+33,"Kalliopi ""Kelly"" Araouzou",F,25,169,55,60.37,60.58,17.9,0
+34,Isabella Arcila Hurtado,F,22,168,64,60.17,61.12,22.9,0
+35,Samantha Michelle Arvalo Salinas,F,21,171,60,57.88,59.82,15.5,0
+36,Pol Arias Dourdet,M,19,175,80,52.59,53.65,13.0,0
+37,Antonio Arroyo Prez,M,22,170,63,54.13,54.81,20.5,0
+38,Heather Ann Arseth,F,22,170,60,56.63,57.12,10.3,0
+39,Bradlee Logan Taylor Ashby,M,20,200,92,50.1,52.47,16.7,0
+40,Jessica Ashwood,F,23,173,64,52.71,57.336666666666666,22.633333333333336,1
+41,Merdan Ataew,M,21,196,80,54.46,55.72,17.7,0
+42,Soule Soilihi Athoumane,M,25,180,75,51.02,51.54,11.2,0
+43,Alia Shanee Atkinson,F,27,172,71,58.41,58.5,13.9,0
+44,"Hoi Shun ""Stephanie"" Au",F,24,172,56,59.08,59.35,19.4,0
+45,Felix Aubck,M,19,198,85,52.05,53.343333333333334,15.9,0
+46,Jordan Augier,M,21,171,53,55.37,55.68,15.4,0
+47,"Dionisio Augustine, II",M,24,153,65,51.71,53.85,21.2,0
+48,Ekaterina Ivanova Avramova,F,24,180,68,61.15,62.15,9.6,0
+49,Ventsislav Vasilev Aydarski,M,25,168,60,51.59,53.71,24.7,0
+50,Nooran Ahmed Ali Ba Matraf,F,16,166,60,58.82,59.02,17.9,0
+51,Baek Su-Yeon,F,25,173,61,59.36,59.63,6.8,0
+52,Kathleen Baker,F,19,173,68,52.25,53.254999999999995,29.6,1
+53,Dmitry Igorevich Balandin,M,21,195,85,47.11,51.18,21.1,1
+54,Coralie Balmy,F,29,180,67,57.16,58.913333333333334,15.433333333333332,0
+55,Gbor Balog,M,25,186,80,53.28,55.615,20.0,0
+56,Haris Bandey,M,17,167,79,52.18,52.71,10.0,0
+57,Khader Ghetrich Baqlah,M,17,184,80,55.51,55.57,16.6,0
+58,Talita Baqlah,F,20,172,62,59.09,59.52,19.3,0
+59,"Katarzyna ""Kasia"" Baranowska",F,28,184,72,59.25,60.2,14.5,0
+60,Azad Al-Barazi,M,28,195,85,51.82,52.07,14.7,0
+61,Anthony John Barbar,M,23,201,100,52.9,53.25,14.2,0
+62,Virginia Bardach Martn,F,24,174,57,57.12,59.27333333333333,12.966666666666669,0
+63,Bronte Amelia Arnold Barratt,F,27,171,59,53.04,56.97,23.75,1
+64,Batsaikhanyn Dlgn,M,29,179,72,50.31,50.72,13.4,0
+65,Martin Bau,M,21,182,74,56.41,56.55,19.5,0
+66,Ashton Baumann,M,23,191,74,50.85,50.93,14.4,0
+67,Simona Baumrtov,F,24,176,68,57.75,59.792500000000004,21.1,0
+68,Bayaryn Yosi,F,16,176,61,58.28,58.42,12.9,0
+69,Hamdan Iqbal Ahmed Bayusuf,M,21,182,64,55.78,56.02,18.2,0
+70,"Joshua ""Josh"" Beaver",M,23,175,70,49.39,52.125,23.15,0
+71,Leonie Antonia Beck,F,19,184,62,57.56,57.6,10.1,0
+72,Elizabeth Lyon Beisel,F,23,168,68,55.83,56.02,25.0,0
+73,Mireia Belmonte Garca,F,25,170,59,51.69,54.525999999999996,23.46,1
+74,Marco Belotti,M,27,185,76,52.38,53.045,16.0,0
+75,Craig Harry Benson,M,22,183,80,53.65,53.82,19.3,0
+76,"Joseph ""Gunnar"" Bentz",M,20,196,84,48.12,48.4,31.2,1
+77,Pter Bernek,M,24,193,83,51.72,53.11000000000001,13.9,0
+78,Jules Yao Bessan,M,37,183,85,51.73,52.1,15.4,0
+79,Ilaria Bianchi,F,26,170,65,54.19,56.935,15.7,0
+80,Paul Biedermann,M,29,193,93,53.34,54.83,19.35,0
+81,Simonas Bilis,M,22,196,84,53.55,54.73666666666667,13.700000000000001,0
+82,Susann Jakobsen Bjrnsen,F,23,182,72,57.64,59.95,14.5,0
+83,Marko Blaevski,M,23,183,73,52.56,52.83,21.9,0
+84,Jason Block,M,26,182,82,48.7,51.14,15.95,0
+85,Pernille Blume,F,22,170,58,52.05,56.4225,23.375,1
+86,Federico Bocchia,M,29,197,93,57.2,57.99,14.3,0
+87,Anastasia Katerina Bogdanovski,F,23,174,57,59.62,59.74,18.9,0
+88,Georgia Bohl,F,19,167,54,59.68,60.835,18.0,0
+89,Richrd Bohus,M,23,187,81,52.44,54.25,13.233333333333334,0
+90,Charlotte Bonnet,F,21,175,64,57.76,59.986000000000004,14.440000000000001,0
+91,Dylan Bosch,M,23,178,75,50.53,52.96,12.2,0
+92,Teona Bostashvili,F,18,159,48,58.63,58.78,15.4,0
+93,Dominique Bouchard,F,25,175,61,55.71,60.59,18.1,0
+94,Lorys Bourelly,M,24,184,69,48.92,49.15,25.1,0
+95,"Frdric Thierry Roger ""Frd"" Bousquet",M,35,188,86,52.46,52.67,14.2,0
+96,George Richard Lycott Bovell,M,33,196,74,53.11,53.5,15.3,0
+97,Lauren Marie Boyle,F,28,183,67,55.41,56.465,19.0,0
+98,David Karl Brandl,M,29,187,82,52.93,53.69,21.8,0
+99,Dorothea Brandt,F,32,178,70,59.04,59.77,15.1,0
+100,Sarah Bro,F,20,177,64,52.88,53.48,20.1,0
+101,Viktor Bregner Bromer,M,23,194,87,54.2,54.36,7.7,0
+102,Devon Myles William Brown,M,24,188,80,52.36,54.5075,16.125,0
+103,Annika Bruhn,F,23,183,69,56.39,57.54666666666666,19.033333333333335,0
+104,Rachele Bruni,F,25,170,59,52.49,52.89,28.9,1
+105,Aleksey Sergeyevich Bryansky,M,18,192,82,51.36,51.78,13.5,0
+106,Maarten Brzoskowski,M,20,185,79,47.99,50.515,24.8,0
+107,Matelita Buadromo,F,20,171,56,60.03,60.23,14.9,0
+108,Siri Arun Budcharern,F,14,166,63,57.39,57.77,22.6,0
+109,Jack David Burnell,M,23,185,72,53.63,54.28,11.8,0
+110,Tho Bussire,M,21,188,90,50.93,52.46,15.6,0
+111,Geoffrey Butler,M,20,188,84,51.88,52.57,19.0,0
+112,Lara Butler,F,21,172,60,62.68,62.8,19.9,0
+113,Kimberly Buys,F,27,187,75,57.41,58.22,21.5,0
+114,Lani Rose Cabrera,F,23,175,66,59.85,60.07,10.3,0
+115,Basten Caerts,M,18,185,85,54.19,54.44,17.8,0
+116,Hilary Caldwell,F,25,173,61,52.41,52.93,29.2,1
+117,Amadou Camara,M,22,163,69,53.93,53.95,22.8,0
+118,Bronte Campbell,F,22,179,58,52.16,56.586666666666666,22.666666666666668,1
+119,Cate Natalie Campbell,F,24,186,67,52.21,56.055,25.125,1
+120,Cao Yue,F,20,178,72,60.4,61.54,19.1,0
+121,Diletta Carli,F,20,170,61,61.11,61.18,19.1,0
+122,"Jazmin Roxy ""Jazz"" Carlin",F,25,175,57,52.19,52.769999999999996,28.35,1
+123,Laurent Carnol,M,26,187,82,53.51,55.644999999999996,25.35,0
+124,Martina Carraro,F,23,175,60,62.15,62.63,5.6,0
+125,Dylan Carter,M,20,190,82,52.3,52.52,17.2,0
+126,Diogo Filipe Silva de Carvalho,M,28,184,75,53.69,54.97,7.2,0
+127,Arianna Castiglioni,F,18,167,55,56.95,59.0,16.15,0
+128,Patricia Castro Ortega,F,23,178,66,55.65,57.903333333333336,15.833333333333334,0
+129,Jssica Bruin Cavalheiro,F,25,164,60,58.46,58.91,17.1,0
+130,Andrea del Rosario Cedrn Rodrguez,F,22,169,62,58.73,59.09,19.3,0
+131,Mihajlo eprkalo,M,17,172,74,51.16,51.32,23.4,0
+132,Tales Rocha Cerdeira,M,29,182,77,53.54,54.15,12.7,0
+133,Kyle Chalmers,M,18,193,90,47.63,48.413333333333334,30.566666666666666,1
+134,Natthanan Chankrajang,F,30,166,57,58.83,59.33,6.0,0
+135,Geoffrey Robin Cheah,M,25,188,70,53.71,54.16,10.8,0
+136,Chen Jie,F,21,177,65,57.24,57.5,6.7,0
+137,Chen Xinyi,F,18,177,60,59.06,61.26,18.9,0
+138,"Li Mei ""Camille Lily"" Cheng",F,23,178,65,56.28,58.045,16.425,0
+139,Oreoluwa Cherebin,F,18,150,54,55.03,55.24,24.0,0
+140,Andrew Chetcuti,M,23,177,72,54.03,54.2,6.5,0
+141,Marcelo Chierighini,M,25,190,86,52.46,54.160000000000004,15.733333333333334,0
+142,Darya Yaroslavovna Chikunova,F,17,177,59,58.37,59.18,19.4,0
+143,Svetlana Mikhaylovna Chimrova,F,20,173,61,58.17,59.16,17.5,0
+144,Tatiana Chica,F,21,175,60,58.36,59.85,16.7,0
+145,Choi Gyu-Wung,M,26,181,75,55.17,55.65,21.5,0
+146,Anton Mikhaylovich Chupkov,M,19,188,71,46.79,50.83,22.25,1
+147,Mathilde Cini,F,21,166,62,58.73,58.79,17.3,0
+148,Carlos Eduardo Claverie Borgiani,M,19,190,68,52.35,53.96,16.700000000000003,0
+149,Georgia Amy Coates,F,17,170,54,57.86,60.00333333333333,20.5,0
+150,Ryan Andrew Cochrane,M,27,192,80,50.38,52.72,10.350000000000001,0
+151,Piero Codia,M,26,190,80,49.6,51.41,16.45,0
+152,Jordan Coelho,M,24,183,75,53.84,54.94,18.0,0
+153,Michelle Elizabeth Coleman,F,22,186,74,58.04,60.832499999999996,14.975,0
+154,Jhennifer Alves da Conceio,F,19,162,53,58.48,59.0,16.5,0
+155,Santo Condorelli,M,21,188,88,50.13,52.425,14.475,0
+156,"John ""Jack"" Conger",M,21,193,80,47.89,48.47,34.3,1
+157,Tamsin Cook,F,17,170,61,54.08,58.23666666666666,20.266666666666666,1
+158,Kevin Cordes,M,22,196,88,48.65,51.36666666666667,21.833333333333332,1
+159,Melania Felicitas Costa Schmid,F,27,180,69,57.27,59.655,14.275,0
+160,Alin Coste,M,24,201,95,50.58,50.76,16.0,0
+161,Alicia Jayne Coutts,F,28,176,69,60.24,60.61,22.8,0
+162,Kirsty Leigh Coventry (-Seward),F,32,176,64,55.19,59.67,8.9,0
+163,Edgar Roberto Crespo Echeverra,M,27,170,60,53.96,55.33,16.8,0
+164,Anja Crevar,F,16,164,49,55.23,56.14,11.9,0
+165,Louis Croenen,M,22,186,79,51.94,52.29,18.85,0
+166,Jarred Crous,M,20,187,84,52.03,52.43,12.7,0
+167,"Lszl Cseh, Jr.",M,30,188,83,48.6,51.935,22.65,1
+168,Ana Marcela Jesus Soares da Cunha,F,24,165,66,57.23,57.59,19.3,0
+169,Konrad Czerniak,M,27,193,78,51.95,53.49666666666667,16.599999999999998,0
+170,Andrea Mitchell D'Arrigo,M,21,194,85,52.52,54.945,19.75,0
+171,Duane Da Rocha Marc,F,28,180,60,55.12,56.935,17.2,0
+172,Sren Dahl,M,23,193,86,52.93,53.9,19.0,0
+173,Thibaut Amani Danho,M,22,185,82,51.3,51.97,12.7,0
+174,Debra Daniel,F,25,153,68,62.73,62.82,12.0,0
+175,"Mackenzie ""Mack"" Darragh",M,22,185,79,51.41,51.72,17.1,0
+176,Ana Iulia Dascl,F,13,183,60,59.16,59.76,19.0,0
+177,Georgia Beth Davies,F,25,175,64,58.41,60.114999999999995,16.35,0
+178,Leonardo Gomes de Deus,M,25,175,70,50.47,50.9,19.05,0
+179,Joo Bevilaqua de Lucca,M,26,193,96,53.71,54.59,14.033333333333333,0
+180,Natalia de Luccas,F,19,167,63,57.46,58.13,16.9,0
+181,Martina De Memme,F,24,175,65,56.96,57.1,14.0,0
+182,Daynara Lopes Ferreira de Paula,F,27,163,55,55.99,57.446666666666665,19.3,0
+183,Fanny Deberghes,F,22,170,65,54.24,54.6,13.0,0
+184,Steffen Deibler,M,29,186,81,52.21,53.086666666666666,11.299999999999999,0
+185,Inge Dekker,F,30,183,67,59.01,59.97,15.5,0
+186,Dieter Dekoninck,M,25,190,85,53.12,53.67,12.65,0
+187,Jrmy Desplanches,M,21,189,72,49.0,51.989999999999995,14.8,0
+188,Gabriele Detti,M,21,184,79,47.65,50.026666666666664,24.566666666666666,1
+189,Alex Di Giorgio,M,26,185,75,52.3,54.01,8.3,0
+190,Silvia Di Pietro,F,23,165,57,53.95,55.08,15.4,0
+191,Christian Diener,M,23,182,82,55.05,55.12,19.2,0
+192,Stefanos Dimitriadis,M,26,189,82,50.48,51.09,17.3,0
+193,Dimitrios Dimitriou,M,19,179,72,55.2,55.33,18.4,0
+194,Shawn Erbelau Dingilius-Wallace,M,22,184,93,49.55,49.66,22.5,0
+195,"Madeline Jane ""Maya"" DiRado",F,23,175,65,51.78,52.807500000000005,30.25,1
+196,Nicolas d'Oriano,M,19,175,68,52.61,52.97,7.5,0
+197,Allan Lopes Mamdio do Carmo,M,27,174,73,47.66,48.37,8.8,0
+198,Dong Jie,F,17,170,62,56.92,57.29,16.7,0
+199,Frantz Mike Itelord Dorsainvil,M,25,170,59,51.31,52.2,20.3,0
+200,Luca Dotto,M,26,192,80,49.72,52.795,18.625,0
+201,Anna Dowgiert,F,26,178,65,58.8,61.0,18.55,0
+202,Fiona Doyle,F,24,175,65,60.99,62.45,14.950000000000001,0
+203,Theodora Drakou,F,24,169,67,62.85,63.47,15.8,0
+204,Yevgeny Yuryevich Drattsev,M,33,180,74,51.86,52.0,20.7,0
+205,Dion Christian Dreesens,M,23,195,88,53.01,54.0,14.7,0
+206,Caeleb Remel Dressel,M,19,191,86,47.82,50.77333333333333,25.8,1
+207,Ilya Andreyevich Druzhinin,M,18,173,63,53.71,53.8,8.6,0
+208,talo Manzine Amaral Duarte Garfalo,M,24,180,73,52.46,52.68,17.7,0
+209,Damir Dugonji,M,28,202,105,53.21,54.55,11.6,0
+210,Miguel Durn Navia,M,20,193,80,50.63,54.915,10.65,0
+211,Conor James Dwyer,M,27,196,89,47.82,50.22666666666667,22.03333333333333,1
+212,Naito Ehara,M,23,172,59,47.44,50.59,18.0,1
+213,Marwan Ahmed Aly Morsy El-Amrawy,M,21,194,93,53.45,53.84,21.1,0
+214,Marwan Mohamed Ismail Mohamed Aly El-Kamash,M,22,183,77,50.18,50.88,8.2,0
+215,Brittany Joyce Elmslie,F,22,179,73,52.96,53.925,32.5,1
+216,Esteban Jos Enderica Salgado,M,25,177,71,54.38,55.245,15.75,0
+217,Douglas John Erasmus,M,26,182,78,53.13,54.04,27.0,0
+218,Anthony Lee Ervin,M,35,191,80,46.34,47.915,28.3,1
+219,Blair Catherine Evans,F,25,175,65,57.26,57.42,21.0,0
+220,Joanna Evans,F,19,180,66,56.83,59.60999999999999,18.533333333333335,0
+221,Margaux Nicole Jeanne Aude Fabre,F,23,173,58,57.54,58.09,9.4,0
+222,Mara Fernanda Far Nuez,F,18,163,57,60.26,60.51,15.7,0
+223,Farhan Salih Farhan,M,19,179,67,49.68,49.98,14.5,0
+224,"Eleanor Jane ""Ellie"" Faulkner",F,23,165,68,56.08,56.59,23.4,0
+225,"James ""Jimmy"" Feigen",M,26,196,98,46.98,47.19,30.0,1
+226,Erika Ferraioli,F,30,180,65,55.62,57.77333333333333,17.76666666666667,0
+227,Christoph Fildebrandt,M,27,193,80,53.14,54.57,15.0,0
+228,Julian Fletcher,M,25,184,79,53.09,53.69,11.5,0
+229,Hali Flickinger,F,22,168,52,55.75,56.81,18.6,0
+230,Dvid Fldhzi,M,21,190,84,56.11,56.18,7.9,0
+231,Amini Tuitavake Britteon Fonua,M,26,186,80,53.65,53.67,12.3,0
+232,Felipe Alves Frana da Silva,M,29,186,90,51.69,53.945,11.8,0
+233,Sara Franceschi,F,17,178,61,55.22,56.93,15.5,0
+234,"Melissa Jeanette ""Missy"" Franklin",F,21,188,77,52.29,55.78666666666667,22.7,1
+235,Thomas William Fraser-Holmes,M,24,194,85,54.33,55.45666666666667,12.533333333333333,0
+236,Bruno Giuseppe Fratus,M,27,187,80,54.96,55.63,24.2,0
+237,Lotte Friis,F,28,184,74,59.17,60.435,12.45,0
+238,Serhiy Anatoliyovych Frolov,M,24,190,84,53.68,55.03,17.3,0
+239,Fu Yuanhui,F,20,179,63,51.63,56.644999999999996,23.549999999999997,1
+240,Takuro Fujii,M,31,184,82,54.26,55.41,12.4,0
+241,Hiromasa Fujimori,M,24,176,72,52.03,52.09,23.3,0
+242,Colleen Furgeson,F,17,176,65,58.45,58.8,20.7,0
+243,Ftima Gallardo Carapeto,F,19,180,60,58.73,59.215,13.100000000000001,0
+244,Elisbet Gmez Matos,F,19,163,57,57.75,58.54,18.8,0
+245,Heidi Gan,F,27,162,57,55.28,56.1,16.9,0
+246,Vanessa Milagros Garca Vega,F,32,173,75,57.74,58.05,5.0,0
+247,Stina Karolina Gardell,F,26,172,70,53.8,53.98,13.3,0
+248,Hannibal David Gaskin,M,18,173,68,54.87,55.94,22.7,0
+249,Helena Gasson,F,21,172,76,56.13,57.269999999999996,15.55,0
+250,Bryl milie Paulette Gastaldello,F,21,176,66,58.67,60.89,21.075,0
+251,Ahmed Gebrel,M,25,180,73,51.73,52.21,20.9,0
+252,Rahel Fseha Gebresilassie,F,20,160,55,58.4,58.58,26.6,0
+253,Aleksandra Viktorovna Gerasimenya,F,30,175,60,52.89,57.06,19.3,1
+254,"Spyridon ""Spyros"" Gianniotis",M,36,185,78,48.11,48.32,35.1,1
+255,Fabien Pierre Aurlien Dominique Gilot,M,32,193,85,47.55,47.62,28.5,1
+256,Nomi Girardet,F,21,174,61,62.35,62.72,16.0,0
+257,Jan-Philip Glania,M,27,194,90,50.89,54.27,13.0,0
+258,Robert Andrei Glin,M,19,185,72,52.94,54.239999999999995,15.8,0
+259,Mads Glsner,M,27,191,81,56.06,56.43,13.5,0
+260,Kristian Golomeev,M,23,202,95,51.67,53.615,14.5,0
+261,Joo Luiz Gomes Jnior,M,30,190,89,50.16,51.535,12.55,0
+262,Jonathan David Gmez Noriega,M,20,178,78,49.93,52.52,11.7,0
+263,Hugo Gonzlez de Oliveira,M,17,192,82,52.12,53.099999999999994,19.8,0
+264,Marta Gonzlez Crivillers,F,21,181,73,59.08,59.49,17.1,0
+265,Kennedy Goss,F,19,173,74,52.3,53.46,31.3,1
+266,Ralph Goveia Assafrao,M,20,178,77,53.18,53.2,19.5,0
+267,Federico Grabich,M,26,193,92,51.44,52.78666666666667,17.133333333333336,0
+268,Lisa Graf,F,23,183,69,57.97,58.82,12.2,0
+269,Lara Grangeon,F,24,173,60,55.81,57.370000000000005,13.25,0
+270,Santiago Grassi,M,19,187,82,51.78,51.8,21.1,0
+271,Benjmin Grtz,M,20,183,75,52.41,52.52,22.1,0
+272,Andrey Vladimirovich Grechin,M,28,199,99,51.6,54.015,21.4,0
+273,Vanessa Grimberg,F,23,176,63,57.59,57.77,9.8,0
+274,Madeline Groves,F,21,179,66,51.94,54.91,27.400000000000002,1
+275,Valerie Gruest Slowing,F,17,172,63,59.49,60.025000000000006,15.95,0
+276,Chelsea Lea Gubecka,F,17,162,62,58.63,58.79,9.9,0
+277,Guilherme Augusto Guido,M,29,194,90,51.09,53.81,17.85,0
+278,Viktoria Zeynep Gne,F,18,185,66,57.44,59.98,20.433333333333334,0
+279,Sean Michael Gunn,M,22,181,84,53.81,53.89,15.9,0
+280,Sirish Gurung,M,17,158,65,54.84,55.35,17.3,0
+281,Eygl sk Gstafsdttir,F,21,187,82,53.82,57.885000000000005,18.450000000000003,0
+282,Allan Gutirrez Castro,M,22,178,79,57.69,58.49,26.3,0
+283,Long Yuan Miguel Gutirrez Feng,M,21,190,85,49.99,50.34,20.9,0
+284,James George Guy,M,20,187,83,47.37,51.182,21.380000000000003,1
+285,Rka Gyrgy,F,20,175,56,57.76,59.09,16.3,0
+286,Dniel Gyurta,M,27,185,77,53.03,56.56666666666666,10.966666666666667,0
+287,Gergely Gyurta,M,24,178,72,49.0,51.095,10.5,0
+288,Francis Townley Haas,M,19,196,84,47.76,51.15,22.1,1
+289,Robel Kiros Habte,M,24,176,81,56.42,57.07,11.1,0
+290,Clo Hache,F,18,171,62,59.23,60.28,19.8,0
+291,Iacovos Hadjiconstantinou,M,21,194,80,46.56,47.17,26.7,0
+292,Kosuke Hagino,M,21,177,71,46.99,48.942499999999995,29.4,1
+293,Alexandre Haldemann,M,21,186,81,52.62,53.15,19.6,0
+294,"Francesca Jean ""Fran"" Halsall",F,26,172,64,60.12,60.705,16.799999999999997,0
+295,Molly Hannis,F,24,170,70,60.89,61.38,19.7,0
+296,Jacob Hansford,M,20,182,77,53.27,53.63,17.2,0
+297,Louise Maria Hansson,F,19,187,71,54.46,57.614,20.28,0
+298,Sophie Elizabeth Hansson,F,18,186,74,57.78,59.095,14.35,0
+299,Isabelle Hrle,F,28,175,64,58.22,58.47,13.6,0
+300,Giordan Harris,M,23,185,99,56.62,58.73,9.6,0
+301,Junya Hasegawa,M,22,180,70,51.05,51.13,16.9,0
+302,Suzuka Hasegawa,F,16,165,56,58.53,59.29,12.0,0
+303,Julia Hassler,F,23,177,73,57.4,57.44,16.8,0
+304,Camilla Hattersley,F,21,174,59,56.43,57.80500000000001,13.2,0
+305,Siobhn Bernadette Haughey,F,18,177,64,61.73,62.23,20.5,0
+306,He Jianbin,M,23,188,83,55.57,56.72,11.9,0
+307,"Frederike Johanna Maria ""Femke"" Heemskerk",F,28,180,68,56.0,58.35,12.1,0
+308,Franois Heersbrandt,M,26,179,74,54.02,54.13,21.0,0
+309,Jacob Oskar Julius Heidtmann,M,21,195,83,51.21,52.82,22.25,0
+310,Philip Marvin Heintz,M,25,194,85,55.06,55.82,10.0,0
+311,Hem Thon Vitiny,F,22,163,52,58.23,58.54,14.5,0
+312,Mlanie Hnique,F,23,171,60,56.25,56.51,13.9,0
+313,Franziska Hentke,F,27,169,62,54.34,55.515,13.45,0
+314,Graciele Herrmann,F,24,180,64,55.08,56.22,9.0,0
+315,Rebecca Heyliger,F,23,161,54,53.87,54.03,5.0,0
+316,Hilal Hemed Hilal,M,22,176,63,52.36,52.81,19.3,0
+317,Johannes Hintze,M,17,193,82,52.99,53.68,19.4,0
+318,Yasunari Hirai,M,26,175,75,51.45,51.67,16.8,0
+319,Chad Ho,M,26,172,75,52.2,52.81,19.0,0
+320,Hong Qu Phc,M,23,182,76,56.27,56.65,18.0,0
+321,"Benjamin Thomas ""Ben"" Hockin Brusquetti",M,29,195,90,55.58,55.91,8.6,0
+322,Belinda Jane Hocking,F,25,167,57,56.02,56.38,18.8,0
+323,Pter Holoda,M,20,196,90,46.62,47.11,25.6,0
+324,Tamila Hryhorivna Holub,F,17,175,62,58.86,59.14,27.4,0
+325,Stephanie Horner,F,27,180,69,56.27,57.06,21.6,0
+326,Bjrn Hornikel,M,24,192,91,52.44,53.315,14.649999999999999,0
+327,"Mackenzie ""Mack"" Horton",M,20,190,88,48.58,51.63666666666666,22.733333333333334,1
+328,Dvid Horvth,M,20,175,73,52.52,53.66,12.1,0
+329,Natsumi Hoshi,F,25,164,56,54.92,56.165,22.9,1
+330,Katinka Hossz,F,27,175,65,52.57,55.164,27.18,1
+331,Hou Yawen,F,17,181,71,55.03,55.14,11.0,0
+332,Andriy Andriyovych Hovorov,M,24,190,89,55.09,56.0,11.7,0
+333,Jade Ashleigh Howard,F,21,182,68,58.64,58.91,16.7,0
+334,Sidni Hoxha,M,24,193,86,52.07,52.39,19.3,0
+335,Hu Yixuan,M,21,185,83,52.48,53.4,23.6,0
+336,Mohamed Hussein,M,24,188,78,51.65,51.88,7.9,0
+337,"Matthew ""Matt"" Hutchins",M,21,190,75,52.39,54.055,13.25,0
+338,Liliana Ibez Lpez,F,25,180,70,58.3,59.73,19.8,0
+339,Haneen Ibrahim,F,16,154,47,56.29,56.94,13.8,0
+340,Chihiro Igarashi,F,21,170,61,54.86,57.5,19.566666666666666,0
+341,Judit Ignacio Sorribes,F,22,165,58,55.24,56.97,15.4,0
+342,Rikako Ikee,F,16,170,56,55.62,60.00857142857143,14.299999999999999,0
+343,Runa Imai,F,15,163,50,60.81,61.14,26.0,0
+344,Maksim Ini,M,20,186,80,55.3,55.6,8.8,0
+345,Santisouk Inthavong,M,16,170,60,53.81,54.3,10.9,0
+346,Anton rskov Ipsen,M,21,186,74,50.05,52.84,20.15,0
+347,Billy Scott Irakose,M,19,196,74,53.07,53.28,14.9,0
+348,Ryosuke Irie,M,26,178,64,50.88,51.836666666666666,17.166666666666668,0
+349,Grant Irvine,M,25,187,80,52.08,55.425,14.8,0
+350,Amit Ivry,F,26,170,65,57.72,59.985,16.05,0
+351,"Danila Sergeyevich ""Dan"" Izotov",M,24,192,90,52.16,52.54,14.9,0
+352,Connor Jaeger,M,25,185,77,48.27,50.94,19.6,1
+353,"Zsuzsanna ""Zsu"" Jakabos",F,27,185,70,59.68,61.31333333333333,19.7,0
+354,Mimosa Jallow,F,22,176,63,56.61,58.68,11.2,0
+355,Pavel Janeek,M,22,196,85,50.01,50.46,17.2,0
+356,Julie Kepp Jensen,F,16,177,65,57.83,59.37,13.8,0
+357,Pl Vitalis Joensen,M,25,180,75,55.13,56.17,11.4,0
+358,Jennie Caroline Eleonore Johansson,F,28,188,71,58.38,59.565,12.55,0
+359,Damien Joly,M,24,189,72,52.48,55.685,21.4,0
+360,Bayan Jumah,F,22,182,76,61.64,61.94,25.8,0
+361,Pawe Juraszek,M,21,185,68,55.46,55.64,24.1,0
+362,Calvyn Justus,M,20,195,70,52.9,53.72,18.7,0
+363,Amina Kajtaz,F,19,173,62,59.38,59.59,16.7,0
+364,Chase Tyler Kalisz,M,22,193,86,51.05,52.08,24.3,1
+365,Uvis Kalni,M,22,192,85,53.34,53.88,28.6,0
+366,Ziv Kalontarov,M,19,185,70,51.11,52.415,14.3,0
+367,Victoria Kaminskaya,F,20,164,53,58.93,60.894999999999996,13.9,0
+368,Masaki Kaneko,M,24,181,75,51.02,51.34,16.5,0
+369,Rie Kaneto,F,27,175,64,54.0,54.17,32.7,1
+370,Boglrka Kaps,F,23,168,54,52.49,57.70333333333334,26.566666666666666,1
+371,Nezir Karap,M,22,179,74,54.82,55.73,17.0,0
+372,Yannick Kser,M,24,186,81,50.7,51.78,15.7,0
+373,Reem Mohamed Hussein El-Sayed Kassem,F,20,175,75,58.12,58.44,11.8,0
+374,Shivani Kataria,F,18,163,60,55.59,56.28,13.9,0
+375,Khristos Katrantzis,M,24,188,78,53.21,53.68,18.5,0
+376,Radosaw Kawcki,M,24,189,76,51.42,53.43,16.933333333333334,0
+377,Tracy Keith-Matchitt,F,26,167,60,58.21,58.33,9.4,0
+378,Tams Kenderesi,M,19,186,74,47.11,48.46,30.1,1
+379,Ajna Evelin Ksely,F,14,165,54,57.5,59.74333333333334,18.3,0
+380,Ali Ahmed Mahmoud Ali Khalafalla,M,20,182,78,52.52,52.83,9.2,0
+381,Yuliya Petrovna Khitraya,F,26,180,66,57.26,58.18,15.4,0
+382,Ilya Andreyevich Khomenko,M,20,181,75,52.77,53.02,19.8,0
+383,Apostolos Khristou,M,19,198,88,50.68,52.6325,15.825000000000001,0
+384,Vitaly Khudyakov,M,21,186,83,52.7,53.53,10.5,0
+385,Yumi Kida,F,31,160,55,60.58,60.83,10.3,0
+386,Kim Seo-Yeong,F,22,163,51,59.63,60.68,16.4,0
+387,Lilly King,F,19,175,70,52.04,55.093333333333334,28.266666666666666,1
+388,Boris Kirillov,M,23,181,75,51.14,51.74,5.0,0
+389,Gerg Kis,M,28,184,81,53.85,54.980000000000004,12.100000000000001,0
+390,Yuri Kisil,M,20,198,84,51.84,54.5725,12.975,0
+391,Kacper Fabian Klich,M,21,182,78,52.15,54.41,23.5,0
+392,Anja Klinar,F,28,170,62,57.87,60.9,17.633333333333333,0
+393,Tom Klobunk,M,26,185,88,50.68,50.83,21.2,0
+394,Andrea Kneppers,F,23,175,67,59.41,60.25,10.7,0
+395,Kenji Kobase,M,29,180,80,54.49,55.25,5.0,0
+396,Yuki Kobori,M,22,183,77,47.51,47.74,26.9,1
+397,Kristel Arianne Kbrich Schmipl,F,30,170,60,57.08,59.215,14.4,0
+398,Marco Koch,M,26,185,83,53.28,53.885000000000005,19.6,0
+399,Junya Koga,M,29,181,80,49.82,53.22,17.8,0
+400,Sarah Khler,F,22,179,67,59.01,60.10666666666666,13.4,0
+401,Dienov Andrs Koka,M,20,173,68,50.78,51.36,12.8,0
+402,"Man Yi ""Yvette"" Kong",F,23,176,60,54.98,58.56,19.0,0
+403,Yevgeny Nikolayevich Koptelov,M,22,190,72,51.16,54.096666666666664,15.200000000000001,0
+404,Pawe Jzef Korzeniowski,M,31,192,82,52.85,55.379999999999995,12.299999999999999,0
+405,Birgit Koschischek,F,29,169,60,56.21,56.68,11.3,0
+406,Yasuhiro Koseki,M,24,188,80,51.55,52.276666666666664,12.200000000000001,0
+407,Matias Koski,M,22,195,93,55.42,55.92,10.95,0
+408,Dimitrios Koulouris,M,25,183,79,51.38,52.34,17.9,0
+409,Dominik Kozma,M,25,193,90,50.17,55.2325,17.525,0
+410,Adzo Rebecca Kpossi,F,17,158,53,58.2,58.69,5.0,0
+411,Anastasiya Sergeyevna Krapivina,F,21,170,56,58.28,58.51,25.0,0
+412,Aleksandr Vladimirovich Krasnykh,M,21,188,80,52.52,54.28,20.166666666666668,0
+413,Lena Kreundl,F,18,174,69,55.05,55.65,14.3,0
+414,Ranomi Kromowidjojo,F,25,180,72,57.29,59.04333333333333,11.866666666666667,0
+415,Leonie Kullmann,F,16,175,62,56.85,58.78,20.3,0
+416,Olim Kurbanov,M,18,186,69,54.94,56.01,15.2,0
+417,Cameron Roland Kurle,M,19,186,66,54.23,54.24,24.3,0
+418,Tanja Kylliinen,F,23,155,57,57.89,59.285,14.8,0
+419,Camille Lacourt,M,31,200,85,50.89,52.245,16.8,0
+420,Audrey Lacroix,F,32,163,53,56.92,57.63,9.6,0
+421,Jessie Khing Lacuna,M,22,170,70,54.36,54.56,12.9,0
+422,Driss Lahrichi,M,18,190,83,52.67,54.1,15.5,0
+423,Alexus Lucienne Laird,F,23,172,61,58.16,58.57,11.7,0
+424,Talisa Lanoe,F,22,167,50,60.47,62.27,17.3,0
+425,"Mitchell James ""Mitch"" Larkin",M,23,187,72,47.54,50.01666666666667,27.03333333333333,1
+426,"Yin Yan ""Claudia"" Lau",F,23,160,56,58.63,59.769999999999996,19.450000000000003,0
+427,Jenna Laukkanen,F,21,182,80,55.69,57.81333333333333,13.966666666666669,0
+428,Chad Guy Bertrand le Clos,M,24,190,83,47.21,49.25666666666666,23.866666666666664,1
+429,Fanny Lecluyse,F,24,177,64,54.46,57.504999999999995,20.6,0
+430,"Kathleen Genevieve ""Katie"" Ledecky",F,19,183,73,52.7,53.61,30.54,1
+431,Lee Hsuan-Yen,M,23,173,63,53.24,53.49,22.0,0
+432,Liubomyr Arturovych Lemeshko,M,24,186,86,52.72,52.79,11.2,0
+433,Luca Leonardi,M,25,186,78,52.55,52.64,9.0,0
+434,Fantine Lesaffre,F,21,180,57,54.09,56.465,11.950000000000001,0
+435,Li Guangyuan,M,19,187,81,54.85,55.495000000000005,14.45,0
+436,Li Xiang,M,23,191,85,50.31,52.38666666666666,15.366666666666667,0
+437,Li Zhuhao,M,17,183,73,49.98,53.35333333333333,13.733333333333333,0
+438,Anders Lie Nielsen,M,25,186,74,53.42,53.67,9.5,0
+439,Brave Lifa,M,20,175,70,55.77,56.06,9.5,0
+440,Lin Pei-Wun,F,16,174,61,56.49,57.38,13.4,0
+441,Lin Yongqing,M,23,190,85,48.06,48.74,21.4,0
+442,Ida Lindborg,F,22,167,60,56.56,56.6,16.7,0
+443,Katarna Listopadov,F,23,169,60,58.53,59.97,17.35,0
+444,Max Robert Litchfield,M,21,168,78,50.75,51.5,20.1,0
+445,Jay Litherland,M,20,183,80,54.49,55.31,14.1,0
+446,Liu Xiang,F,19,180,66,58.04,58.28,15.3,0
+447,Liu Yaxin,F,17,178,69,60.61,60.74,11.7,0
+448,Ari-Pekka Liukkonen,M,27,208,92,51.5,52.91,16.9,0
+449,Ieuan David Lloyd,M,23,194,91,53.16,53.74,15.4,0
+450,Nikita Konstantinovich Lobintsev,M,27,193,85,51.6,52.17,17.45,0
+451,Ryan Steven Lochte,M,32,188,88,47.86,51.59,25.65,1
+452,Nataliya Vladimirovna Lovtsova,F,28,177,70,54.73,57.885000000000005,18.425,0
+453,Lu Ying,F,27,175,65,58.32,58.739999999999995,18.299999999999997,0
+454,Jamila Lunkuse,F,19,153,60,58.36,58.99,18.1,0
+455,Hrafnhildur Luthersdttir,F,25,178,65,55.54,56.32,16.95,0
+456,Manuella Duarte Lyrio,F,27,163,57,51.55,57.23333333333333,15.9,0
+457,Marcos Antnio Costa Ferreira de Macedo,M,25,189,85,54.33,54.43,14.1,0
+458,Brittany MacLean,F,22,172,70,54.11,59.345,20.8,1
+459,Daniel Macovei,M,23,185,71,52.11,53.65,14.5,0
+460,Nicholas Daryl Magaa Defago,M,20,198,90,53.73,53.76,17.5,0
+461,Filippo Magnini,M,34,188,80,53.86,54.66,9.6,0
+462,James Magnussen,M,25,198,94,48.14,48.53,31.7,1
+463,Travis Mahoney,M,26,190,81,50.34,52.504999999999995,8.95,0
+464,Corey Charles Garth Main,M,21,188,85,49.96,53.935,21.25,0
+465,Sandrine Mainville,F,24,173,65,53.16,53.41,29.7,1
+466,Kacper Majchrzak,M,23,190,87,50.74,52.7975,17.225,0
+467,Semyon Vladimirovich Makovich,M,21,180,76,50.01,50.3,6.7,0
+468,Erwin Len Maldonado Saavedra,M,33,174,70,50.97,52.04,19.2,0
+469,Grgory Mallet,M,32,196,84,51.37,52.46,17.9,0
+470,Noura Mana,F,18,170,62,55.92,56.6,16.8,0
+471,Florent Manaudou,M,25,199,99,47.76,48.815,31.25,1
+472,Simone Ashley Manuel,F,20,178,73,52.13,53.125,30.25,1
+473,Mao Feilian,M,23,185,74,54.67,54.89,18.2,0
+474,Joanna de Albuquerque Maranho Bezerra de Melo,F,29,173,58,53.69,58.163333333333334,18.133333333333333,0
+475,Daiene Maral Dias,F,27,159,55,59.1,60.34,26.3,0
+476,Yusra Mardini,F,18,157,53,54.26,57.745,16.75,0
+477,Melanie Margalis,F,24,173,65,52.59,53.78,20.05,1
+478,Deividas Margeviius,M,21,187,80,56.61,56.93,19.7,0
+479,Luca Marin,M,30,187,82,53.12,53.43,10.6,0
+480,Vctor Martn Martn,M,22,187,82,51.85,52.7,15.1,0
+481,Aitor Martnez Rodrguez,M,22,183,78,54.0,54.31,7.6,0
+482,Luis Carlos Martnez Mndez,M,20,182,74,52.84,53.16,13.4,0
+483,Henrique de Souza Martins,M,24,180,73,52.06,52.965,15.3,0
+484,Noah Mascoll-Gomes,M,17,175,68,51.34,51.83,22.1,0
+485,Chiara Masini Luccetti,F,23,171,56,58.73,59.16,16.2,0
+486,Kylie Jacqueline Masse,F,20,173,61,53.77,57.260000000000005,22.45,1
+487,Ahmed Al-Mathlouthi,M,26,190,90,52.38,54.31,18.466666666666665,0
+488,Radomyos Matjiur,M,28,180,81,52.8,52.88,5.0,0
+489,Takeshi Matsuda,M,32,184,84,47.68,47.91,29.1,1
+490,Yayoi Matsumoto,F,26,168,65,57.79,58.99,15.75,0
+491,Matti Mattsson,M,22,197,98,51.58,53.265,13.899999999999999,0
+492,Elin Ida Mattsson-Marko-Varga,F,31,170,65,57.3,57.65,21.45,0
+493,Martha McCabe,F,26,168,58,56.69,57.24,21.9,0
+494,Cameron McEvoy,M,22,185,70,48.63,50.6275,21.975,1
+495,Anton Sveinn McKee,M,22,183,84,51.39,52.405,18.200000000000003,0
+496,David McKeon,M,24,195,85,48.38,52.026666666666664,12.766666666666666,0
+497,Emma McKeon,F,22,180,60,52.66,54.955999999999996,23.580000000000002,1
+498,Taylor McKeown,F,21,178,65,52.16,57.660000000000004,19.733333333333334,1
+499,Jack Alan McLoughlin,M,21,183,75,47.88,49.55,5.0,0
+500,Keryn McMaster,F,22,169,63,61.37,61.67,8.2,0
+501,Dorian Mara Grayce McMenemy Taylor,F,19,185,70,56.73,57.02,18.0,0
+502,Etiene Pires de Medeiros,F,25,169,60,54.82,58.6625,21.825,0
+503,Christoph Martin Meier,M,23,197,95,53.96,54.48,17.5,0
+504,"Catherine Michelle ""Katie"" Meili",F,25,170,61,53.84,54.79,27.9,1
+505,Rta Meilutyt,F,19,176,75,56.72,58.21,16.5,0
+506,Odysseus Meladinis,M,26,193,85,51.87,53.04,13.600000000000001,0
+507,Martn Andrs Melconian lvez,M,26,183,77,58.35,58.78,8.0,0
+508,Oussama Mellouli,M,32,192,84,54.14,54.79,15.7,0
+509,Luiz Altamir Lopes Melo,M,20,174,69,52.3,54.295,19.15,0
+510,Miguel ngel Mea Peralta,M,19,176,69,54.16,54.86,18.6,0
+511,Jenny Mensing,F,30,183,70,56.92,59.62,21.9,0
+512,Nikol Merizaj,F,17,180,65,59.23,59.94,20.0,0
+513,Mehdy Metella,M,24,190,90,48.57,52.599999999999994,26.6,1
+514,Matthew Mark Meyer,M,18,185,70,53.19,53.49,20.9,0
+515,Michael Julian Meyer,M,23,184,76,51.53,52.58,5.1,0
+516,William Meynard,M,29,190,85,47.77,48.39,29.1,1
+517,Julie-Marie Meynen,F,18,170,65,55.96,57.56,11.75,0
+518,Marie Laura Meza Peraza,F,25,163,55,53.73,54.07,21.0,0
+519,Jan Micka,M,21,183,76,49.37,52.67,12.2,0
+520,Clment Mignon,M,23,187,75,47.88,52.18,21.599999999999998,1
+521,Hannah Louise Miley,F,26,166,53,58.44,59.276666666666664,16.333333333333332,0
+522,Cody Miller,M,24,180,80,47.86,48.775,30.65,1
+523,Stephen Milne,M,22,185,76,47.19,51.88666666666666,23.933333333333334,1
+524,Dirngulbai Moreyna Misech,F,18,165,51,58.96,60.39,8.0,0
+525,Alice Mizzau,F,23,180,65,56.9,59.330000000000005,15.433333333333332,0
+526,Vahan Mkhitaryan,M,19,186,92,52.21,52.62,9.0,0
+527,Sachi Mochida,F,17,166,58,61.57,62.39,21.1,0
+528,Igor Araujo Mogne,M,20,175,66,53.31,53.85,20.4,0
+529,Nazlati Mohamed Andhumdine,F,18,160,62,60.62,61.14,15.2,0
+530,Abdelaziz Mohamed Ahmed,M,21,181,72,51.39,52.26,18.5,0
+531,Flra Molnr,F,18,175,65,58.8,59.15,13.3,0
+532,Martina Moravkov,F,27,174,64,57.99,58.53,14.233333333333334,0
+533,David Morgan,M,22,184,82,48.05,52.406666666666666,19.366666666666667,1
+534,Vladimir Viktorovich Morozov,M,24,180,73,52.61,54.16,16.1,0
+535,Magdalena Ruth Alex Moshi,F,25,169,65,57.48,57.75,5.0,0
+536,Albarchir Mouctar,M,21,178,76,54.96,55.32,19.1,0
+537,Roukaya Moussa Mahamane,F,19,163,47,56.81,56.88,21.2,0
+538,Darya Vasilvyevna Mullakayeva,F,18,172,61,54.77,55.44,13.9,0
+539,Aurlie Muller,F,26,169,57,58.0,58.88,15.7,0
+540,Ross Murdoch,M,22,183,76,56.5,57.42,11.1,0
+541,"Andrea ""Andi"" Murez",F,24,184,77,54.64,57.24333333333333,11.533333333333333,0
+542,Jorge Mario Murillo Valdes,M,24,186,77,48.76,52.135000000000005,18.0,0
+543,Ryan Murphy,M,21,191,91,46.84,47.53333333333333,28.53333333333333,1
+544,Nicola Muscat,F,22,173,59,57.94,58.42,10.2,0
+545,Vladislav Mustafin,M,20,181,78,53.01,53.31,10.5,0
+546,Richard Nagy,M,23,186,73,50.57,52.63999999999999,15.9,0
+547,Martn Naidich,M,25,185,74,54.02,55.28,16.6,0
+548,Katsumi Nakamura,M,22,183,75,51.72,52.754999999999995,19.924999999999997,0
+549,Nam Yu-Seon,F,31,169,52,56.35,57.41,19.7,0
+550,Arya Nasimi Shad,M,16,187,68,50.3,52.83,18.2,0
+551,Rozaliya Khaydyarovna Nasretdinova,F,19,180,66,59.89,60.51,13.2,0
+552,Awa Ly Ndiaye,F,16,169,53,56.0,56.71,17.9,0
+553,Lia Neal,F,21,178,75,53.54,53.77,33.5,1
+554,Leah Neale,F,21,173,66,53.29,53.53,27.4,1
+555,Sotiria Neofytou,F,18,165,60,58.22,58.75,16.8,0
+556,Robin Neumann,F,18,173,63,58.88,59.675,15.5,0
+557,Vnia Soares Neves,F,25,171,61,56.35,57.82,19.4,0
+558,Gal Nevo,M,29,178,78,49.4,50.826666666666675,15.033333333333333,0
+559,Kotuku Ngawati,F,22,165,60,59.8,60.32,18.5,0
+560,Nguyn Th nh Vin,F,19,172,60,58.28,60.20333333333334,14.5,0
+561,Abdoul Khadre Mbaye Niane,M,27,190,90,45.92,46.66,28.7,0
+562,Rachel Nicol,F,23,160,61,57.39,60.515,18.85,0
+563,Mie stergaard Nielsen,F,19,184,67,54.24,57.129999999999995,20.5,1
+564,Aleksandar Nikolov,M,24,185,75,52.06,53.59,10.8,0
+565,Ning Zetao,M,23,191,81,53.41,54.6475,17.175,0
+566,Ana Sofia Nbrega,F,25,174,70,59.15,59.45,14.8,0
+567,Anna Ntountounaki,F,20,177,66,57.68,58.53,15.6,0
+568,Siobhan-Marie O'Connor,F,20,173,60,52.92,56.93666666666667,22.599999999999998,1
+569,Tjaa Oder,F,22,180,65,58.74,59.585,13.55,0
+570,Poliana Okimoto-Cintra,F,33,165,52,52.75,53.65,29.3,1
+571,Anna Greta Olasz,F,22,163,55,58.65,58.89,6.1,0
+572,"Penelope ""Penny"" Oleksiak",F,16,185,68,52.95,54.98,27.96,1
+573,Larissa Martins de Oliveira,F,23,169,57,55.44,57.52,14.459999999999999,0
+574,Nicolas Nilo Csar de Oliveira,M,28,195,92,52.92,53.75,12.300000000000002,0
+575,Marc-Antoine Olivier,M,20,183,64,47.79,49.4,29.5,1
+576,Ranokhon Omonova,F,22,174,62,57.37,60.019999999999996,14.149999999999999,0
+577,Samson Samuel Opuakpo Forcados,M,30,183,70,53.15,53.26,13.7,0
+578,Arina Pavlovna Opyonysheva,F,17,161,48,55.25,58.52,14.75,0
+579,Marco Orsi,M,25,189,89,51.08,52.1,13.7,0
+580,Bruno Ortiz-Caavate Ozeki,M,23,194,88,51.78,51.85,14.2,0
+581,Miguel Ortiz-Caavate Ozeki,M,25,189,89,53.29,54.12,7.7,0
+582,Dmytro Olehovych Oseledets,M,21,187,82,56.11,56.31,18.8,0
+583,Farida Hisham Ahmed Osman,F,21,173,58,58.27,58.705,11.95,0
+584,Jeanette Ottesen Gray,F,28,178,70,53.41,58.0675,20.1,1
+585,Angelika Sita Oudraogo,F,22,172,63,55.21,55.43,16.8,0
+586,Emily Overholt,F,18,170,55,53.68,54.75333333333333,25.03333333333333,1
+587,Jake Packard,M,22,195,68,47.94,49.775,27.400000000000002,1
+588,Daniil Pavlovich Pakhomov,M,17,186,78,53.61,54.07,22.2,0
+589,Joshua Palmer,M,24,186,87,52.63,52.66,18.5,0
+590,Gregorio Paltrinieri,M,21,191,72,48.13,48.69,33.8,1
+591,Margherita Panziera,F,20,180,65,57.7,58.83,20.7,0
+592,Mrk Papp,M,22,185,78,55.16,55.31,19.4,0
+593,Park Jin-Young,F,19,162,58,57.15,57.5,24.8,0
+594,Park Tae-Hwan,M,26,183,73,52.87,54.406666666666666,19.3,0
+595,Sara Elizabeth Pastrana Lizano,F,17,170,55,57.52,57.98,10.8,0
+596,Keri-Anne Payne (-Carry),F,28,177,66,56.9,57.15,21.6,0
+597,Adam George Peaty,M,21,191,86,47.43,48.245000000000005,32.1,1
+598,Jacob Pebley,M,22,193,86,50.93,51.13,17.8,0
+599,Jana Pechanov,F,35,170,62,62.69,63.47,13.8,0
+600,Rikke Mller Pedersen,F,27,174,61,51.65,56.77333333333333,23.73333333333333,1
+601,Federica Pellegrini,F,27,177,65,57.55,59.7025,16.425,0
+602,Carlos Peralta Gallego,M,22,165,60,53.29,53.35,23.6,0
+603,Andr Linhares Pereira,M,22,185,84,51.77,56.19,13.8,0
+604,Thiago Machado Vilela Pereira,M,30,187,83,53.45,53.65,18.5,0
+605,Jhonny Jos Prez Urea,M,18,173,50,52.7,52.79,16.9,0
+606,Paola Valentina Prez Sierra,F,25,162,54,58.89,59.11,10.9,0
+607,pela Pere,F,19,158,50,56.27,56.82,22.7,0
+608,Erik Persson,M,22,181,75,52.64,53.925,14.7,0
+609,Aglaia Mafalda Pezzato,F,22,175,60,58.93,59.65,7.0,0
+610,Jinq En Phee,F,18,166,51,58.96,59.62,9.1,0
+611,"Michael Fred Phelps, II",M,31,193,91,46.32,48.32833333333334,29.066666666666666,1
+612,Elinah Amani Phillip,F,16,164,50,58.65,60.08,9.6,0
+613,Sydney Pickrem,F,19,170,54,56.1,59.099999999999994,15.55,0
+614,Blake Pieroni,M,20,188,86,47.57,47.69,28.5,1
+615,Emilia Pikkarainen (-Bottas),F,23,173,54,59.55,60.5,14.6,0
+616,Ryan John Pini,M,34,196,98,54.09,54.48,14.1,0
+617,Pedro Miguel Alves Pinotes,M,26,185,70,51.79,51.91,11.4,0
+618,Tjaa Pintar,F,19,175,65,56.59,57.24,18.1,0
+619,Ammara Pinto,F,18,163,61,59.51,59.72,13.3,0
+620,Andreina del Valle Pinto Prez,F,24,176,68,54.3,58.72,10.233333333333334,0
+621,Omar Andrs Pinzn Garca,M,27,185,85,57.34,57.69,29.2,0
+622,Stefania Pirozzi,F,22,170,59,59.33,59.5,18.9,0
+623,Luca Pizzini,M,27,185,68,52.39,52.69,15.7,0
+624,David Edward Plummer,M,30,191,95,46.89,47.31,28.5,1
+625,Tomasz Polewka,M,21,200,96,52.19,52.75,18.1,0
+626,Alessia Polieri,F,21,163,55,61.07,61.43,21.6,0
+627,Joan Llus Pons Ramn,M,19,170,62,53.22,53.47,12.4,0
+628,Allyson Ponson,F,20,165,60,57.28,57.98,13.8,0
+629,Jarrod Poort,M,21,185,85,53.5,53.83,13.8,0
+630,Aleksandr Yevgenyevich Popkov,M,21,185,80,53.86,54.01,16.3,0
+631,Veronika Andreyevna Popova,F,25,182,68,56.61,59.676,17.2,0
+632,Yaroslav Vladimirovich Potapov,M,17,188,72,55.98,56.75,15.4,0
+633,Jordan Jules Julien Marce Pothain,M,21,187,74,51.22,53.735,14.5,0
+634,Sovijja Pou,M,21,169,62,52.15,54.14,15.1,0
+635,Sajan Prakash Prakash,M,22,178,70,54.52,54.76,5.6,0
+636,Josh Prenot,M,23,180,76,48.17,48.99,29.6,1
+637,Irene Prescott,F,22,174,74,58.94,60.32,6.9,0
+638,Kirill Gennadyevich Prigoda,M,20,192,88,50.48,50.85,14.9,0
+639,"Benjamin Ross ""Ben"" Proud",M,21,185,92,50.63,52.39,15.3,0
+640,Albert Puig Garrich,M,22,184,78,53.85,54.01,12.9,0
+641,Bence Pulai,M,24,193,89,52.35,53.36,21.25,0
+642,Abbas Qali,M,23,178,77,51.99,52.1,17.1,0
+643,Qiu Ziao,M,17,182,67,52.85,53.989999999999995,14.15,0
+644,Quah Ting Wen,F,23,175,60,57.59,57.73,21.9,0
+645,Quah Zheng Wen,M,19,179,79,49.66,53.74666666666667,15.833333333333334,0
+646,Nicholas Quinn,M,23,185,78,51.71,54.475,19.5,0
+647,Jos Alberto Quintanilla Moreno,M,19,200,89,53.64,54.12,20.6,0
+648,Cristin Daniel Quintero Valero,M,23,195,90,50.82,56.1275,17.4,0
+649,Aina Estellah Rabetsara,F,22,167,59,58.49,59.18,29.2,0
+650,Kane Radford,M,25,175,79,50.14,50.31,9.6,0
+651,Marius Radu,M,24,194,85,51.68,53.055,20.35,0
+652,Kimiko Shihara Raheem,F,17,165,51,57.45,58.04,22.9,0
+653,Mohammad Mahfizur Rahman,M,23,172,71,50.11,50.31,18.0,0
+654,Anthonny Sitraka Ralefy,M,21,182,79,53.27,53.85,19.7,0
+655,Nina Georgieva Rangelova,F,25,170,58,59.05,60.295,12.75,0
+656,Clemens Andreas Rapp,M,27,193,85,50.24,51.74,17.85,0
+657,Danas Rapys,M,21,186,73,51.28,52.88666666666666,15.6,0
+658,Kristf Rasovszky,M,19,190,84,51.74,51.83,16.1,0
+659,Christian Reichert,M,31,188,83,55.83,57.31,17.9,0
+660,Christopher Patrick Reid,M,20,198,98,55.29,56.865,20.700000000000003,0
+661,Ins Remersaro Coronel,F,23,167,55,57.83,58.35,25.7,0
+662,Molly Renshaw,F,20,175,65,54.61,58.3,14.05,0
+663,"Robert Peter ""Robbie"" Renwick",M,28,184,80,47.04,47.36,28.7,1
+664,Irak'li Revishvili,M,26,178,77,55.17,55.33,7.2,0
+665,Aona Ribakova,F,25,176,63,56.66,56.9,8.3,0
+666,va Risztov,F,30,173,72,59.3,59.955,16.15,0
+667,Karen Nathalia Riveros Schulz,F,21,170,66,55.93,56.15,8.4,0
+668,Matteo Rivolta,M,24,193,83,53.03,54.3,17.4,0
+669,James Roberts,M,25,194,90,48.67,48.93,34.4,1
+670,Samantha Roberts,F,16,172,64,57.77,58.31,14.7,0
+671,Wesley Tikiariki Roberts,M,19,188,74,55.14,56.57,13.5,0
+672,Emma Robinson,F,21,180,72,59.52,59.78,23.7,0
+673,Henrique Cavalcanti Rodrigues,M,25,194,88,53.47,54.35,13.3,0
+674,Mykhailo Mykhailovych Romanchuk,M,19,190,82,50.8,50.89,14.0,0
+675,Maria Romanjuk,F,19,169,65,60.3,60.71,14.8,0
+676,Gabrielle Gonalves Roncatto,F,18,165,60,60.14,60.25,15.2,0
+677,Sebastien Daniel Rousseau,M,25,190,86,52.71,55.31666666666666,14.1,0
+678,Taylor Madison Ruck,F,16,180,60,51.27,55.1,26.233333333333334,1
+679,Yekaterina Olegovna Rudenko,F,21,180,69,59.38,59.68,25.9,0
+680,Simone Ruffini,M,26,173,67,53.4,55.39,14.0,0
+681,Cierra Runge,F,20,193,85,53.21,53.4,28.8,1
+682,Sean Ryan,M,23,191,77,54.48,55.27,13.3,0
+683,Shane Ryan,M,22,198,89,49.95,53.97,14.766666666666666,0
+684,Yevgeny Mikhaylovich Rylov,M,19,184,69,46.98,49.51666666666667,18.26666666666667,1
+685,Simone Sabbioni,M,19,185,79,52.44,53.83,17.3,0
+686,Aleksandr Sergeyevich Sadovnikov,M,19,193,85,52.99,54.18,11.25,0
+687,Oussama Sahnoune,M,24,190,90,51.44,52.010000000000005,19.0,0
+688,Masato Sakai,M,21,181,77,46.92,47.0,28.2,1
+689,Natsumi Sakai,F,15,172,63,56.33,58.1,16.400000000000002,0
+690,Matea Samardi,F,21,177,61,57.33,58.949999999999996,16.333333333333332,0
+691,Fatoumata Samasskou,F,28,168,74,63.04,63.6,5.9,0
+692,Panagiotis Samilidis,M,22,187,91,49.74,52.46333333333333,19.033333333333335,0
+693,Marc Snchez Torrens,M,23,188,75,52.42,54.364999999999995,15.9,0
+694,Alexei Sancov,M,16,188,85,52.54,54.24,18.9,0
+695,Stefan Bellore Sangala,F,21,165,58,58.53,58.7,16.6,0
+696,Pavel Pavlovich Sankovich,M,26,182,77,53.44,53.82,21.8,0
+697,Jamila Keizia Sanmoogan,F,19,143,58,59.82,59.93,20.3,0
+698,Anna Santamans,F,23,177,61,55.23,59.315,14.149999999999999,0
+699,Matheus Paulo de Santana,M,20,189,90,52.23,52.9,14.7,0
+700,Alexis Manaas da Silva Santos,M,24,185,70,52.11,54.975,13.1,0
+701,Gabriel da Silva Santos,M,20,184,83,51.82,52.27,11.4,0
+702,Michele Santucci,M,27,188,82,55.0,56.09,11.1,0
+703,Katerine Savard,F,23,167,54,53.07,56.745000000000005,22.3,1
+704,Chlo Marie Hlne Savourel,F,16,166,68,57.54,57.56,11.2,0
+705,Tindwende Thierry Sawadogo,M,21,199,93,51.24,51.81,10.5,0
+706,Mateusz Jakub Sawrymowicz,M,29,185,75,52.15,52.8,7.6,0
+707,Paulina Schmiedel,F,23,175,61,59.13,59.56,18.0,0
+708,Allison Rodgers Schmitt,F,26,185,75,52.11,52.905,26.9,1
+709,Joseph Isaac Schooling,M,21,184,74,48.85,50.955,23.4,1
+710,Mikel Schreuders,M,17,189,90,53.64,54.3,30.9,0
+711,Benjamin Schulte,M,20,193,83,55.65,55.97,14.6,0
+712,Brandon Schuster,M,18,188,75,49.83,50.27,16.1,0
+713,Ben Schwietert,M,19,192,83,51.61,51.89,9.9,0
+714,Duncan William MacNaughton Scott,M,19,190,72,47.2,49.66,22.833333333333332,1
+715,Julia Sebastin,F,22,178,70,58.21,59.47,17.9,0
+716,Dalma Sebestyn,F,19,176,67,61.91,61.96,5.9,0
+717,Emily Jane Seebohm,F,24,180,70,51.85,56.85333333333333,21.233333333333334,1
+718,Barbora Seemanov,F,16,175,56,54.75,59.47,11.8,0
+719,Janja egel,F,15,177,60,60.29,61.44,14.9,0
+720,Laraba Gnon Cessy Seibou,F,15,173,63,58.22,59.92,15.8,0
+721,Erika Seltenreich-Hodgson,F,21,170,65,58.49,59.22,7.1,0
+722,Dara Semonowa,F,14,170,50,59.56,60.21,18.9,0
+723,Hanna-Maria Seppl,F,31,174,59,59.65,59.87,13.7,0
+724,Daiya Seto,M,22,174,72,47.18,48.34,23.299999999999997,1
+725,Andrey Dmitriyevich Shabasov,M,22,180,73,56.65,57.78,11.1,0
+726,Aminath Shajan,F,22,157,50,57.29,57.69,16.6,0
+727,Shang Keyuan,M,21,183,79,51.72,52.14,15.1,0
+728,Shen Duo,F,19,180,72,56.53,58.955999999999996,16.2,0
+729,Shi Jinglin,F,23,175,68,53.3,56.303333333333335,19.733333333333334,1
+730,"Thomas Allen ""Tom"" Shields",M,25,193,86,48.16,50.876666666666665,22.5,1
+731,Zohar Hen Shikler,F,19,178,61,58.49,59.269999999999996,15.850000000000001,0
+732,Pilar Shimizu,F,20,168,61,59.38,59.75,11.8,0
+733,Sakiko Shimizu,F,24,156,50,59.91,61.08,19.2,0
+734,Shinri Shioura,M,24,188,89,51.3,54.620000000000005,16.400000000000002,0
+735,"Timothy ""Tim"" Shuttleworth",M,19,192,72,50.59,51.44,9.3,0
+736,Andrius idlauskas,M,19,187,77,53.37,53.89,10.9,0
+737,Keren Michaela Siebner,F,26,180,68,60.02,60.57,25.1,0
+738,aba Silai,M,25,185,77,53.03,53.61,14.2,0
+739,Welson Sim,M,19,181,70,51.9,52.93666666666667,11.5,0
+740,Thiago Teixeira Simon,M,26,184,93,51.92,52.68,15.3,0
+741,Katarina Saa Simonovi,F,21,164,64,58.11,60.34,13.9,0
+742,Gaurika Singh,F,13,155,45,58.25,58.98,19.0,0
+743,Simon Olov Sjdin,M,29,192,85,53.35,54.72,15.85,0
+744,Sarah Frederica Sjstrm,F,22,182,76,53.88,57.462857142857146,24.400000000000002,1
+745,Daniel Skaaning,M,23,180,79,53.06,53.6,13.1,0
+746,Clark Smith,M,21,206,90,47.6,48.29,34.0,1
+747,Daniel Smith,M,25,190,83,53.14,53.25,24.1,0
+748,Kierra Smith,F,22,150,57,57.71,60.455,14.7,0
+749,Leah Smith,F,21,178,67,52.91,55.48666666666667,25.133333333333336,1
+750,Olivia Smoliga,F,21,188,72,52.77,56.31,24.05,1
+751,Glenn Andrew Mark Snyders,M,29,178,83,52.13,52.34,9.9,0
+752,Alex Sobers,M,17,188,66,51.95,52.16,6.7,0
+753,Eduardo Ignacio Solaeche Gmez,M,22,183,78,53.41,53.57,11.0,0
+754,Jannah Sonnenschein,F,20,168,60,56.7,56.88,7.5,0
+755,Mariama Djould Sow,F,16,165,65,55.74,57.95,15.0,0
+756,Raphal Stacchiotti,M,24,183,78,49.04,50.93666666666667,19.666666666666668,0
+757,Matthew Stanley,M,24,198,82,54.18,55.815,14.85,0
+758,Viktor Vladimirovich Staselovich,M,22,188,83,52.19,52.67,13.7,0
+759,Marrit Steenbergen,F,16,178,61,56.35,58.35,17.400000000000002,0
+760,Jrdis Steinegger,F,33,172,58,57.6,58.06,16.1,0
+761,"Daryna Viktorivna ""Dar'ia"" Stepaniuk",F,26,174,62,56.34,56.595,16.65,0
+762,Velimir Stjepanovi,M,22,182,74,49.8,52.11333333333334,16.866666666666667,0
+763,Marcin Tomasz Stolarski,M,20,187,79,47.05,50.44,15.3,0
+764,Kyle Stolk,M,20,186,84,52.56,52.82,18.2,0
+765,Jrmy Stravius,M,28,190,86,47.53,52.358000000000004,21.06,1
+766,Albert Subirats Altes,M,29,190,85,52.09,53.02,16.45,0
+767,Aleksandr Nikolayevich Sukhorukov,M,28,196,93,52.43,54.4,13.2,0
+768,Faye Sultan Hussain,F,21,182,67,59.71,60.11,18.3,0
+769,Sun Meichen,F,17,175,63,58.03,58.2,14.9,0
+770,Sun Yang,M,24,198,89,46.53,49.23666666666667,27.366666666666664,1
+771,Glenn N. R. Surgeloose,M,26,182,82,51.27,52.769999999999996,13.75,0
+772,Glenn Victor Sutanto,M,26,183,74,54.26,54.27,14.0,0
+773,Satomi Suzuki,F,25,168,62,57.16,59.555,11.899999999999999,0
+774,Lucie Svcen,F,18,175,60,54.19,55.54,17.5,0
+775,Lianna Catherine Swan,F,19,165,67,60.98,61.3,19.9,0
+776,Jan witkowski,M,22,198,104,51.81,54.04333333333333,13.833333333333334,0
+777,Sze Hang Yu,F,28,168,65,60.91,61.05,22.8,0
+778,Lilina Szilgyi,F,19,176,63,59.89,61.3,13.3,0
+779,Anna Sztankovics,F,20,177,63,61.32,62.769999999999996,17.05,0
+780,Krisztin Takcs,M,30,186,85,48.77,51.135,26.9,0
+781,Miho Takahashi,F,23,161,56,58.73,59.44,13.2,0
+782,Darya Talanova,F,20,168,56,56.23,56.52,13.3,0
+783,"Bradley Edward ""Brad"" Tandy",M,25,191,86,54.63,54.79,7.1,0
+784,Tang Yi,F,23,178,70,58.78,59.3,14.0,0
+785,Felipe Tapa Salinas,M,21,176,70,51.48,51.69,25.2,0
+786,Grigory Arkadyevich Tarasevich,M,21,190,75,52.73,54.65,15.7,0
+787,Ane Tavar,M,21,187,79,52.84,54.01,17.2,0
+788,Alicja Maria Tchrz,F,23,176,68,55.07,57.76333333333333,19.5,0
+789,Talita Marie Te Flan,F,21,176,63,57.49,58.06,18.9,0
+790,dm Tams Telegdy,M,20,194,77,52.78,53.83,13.5,0
+791,Miho Teramura,F,21,165,53,60.32,60.86,13.7,0
+792,Jovana Terzi,F,17,165,54,57.45,58.18,17.7,0
+793,Thint Myaat,M,14,160,52,51.69,51.97,15.9,0
+794,Noemie Thomas,F,20,165,59,59.61,60.709999999999994,22.200000000000003,0
+795,Markus Thormeyer,M,18,195,84,52.7,54.17,25.5,0
+796,Brianna Throssell,F,20,175,61,60.95,63.55,14.3,0
+797,Pieter Timmers,M,28,200,89,48.42,53.46666666666667,17.066666666666666,1
+798,Giedrius Titenis,M,27,193,95,50.47,54.11333333333334,16.7,0
+799,Renzo Jair Tjon A Joe,M,21,193,80,54.03,54.94,17.1,0
+800,Mario Todorovi,M,27,186,80,49.74,51.64,8.3,0
+801,Andrea Toniato,M,25,182,82,49.01,50.305,14.8,0
+802,Rechael Tonjor,F,24,168,57,60.41,60.81,21.4,0
+803,Dalia Masiel Trrez Zamora,F,26,175,63,62.38,62.87,8.8,0
+804,Karen Milenka Torrez Guzman,F,24,165,58,60.42,60.54,6.2,0
+805,Yakov Yan Toumarkin Zhuravlev,M,24,192,90,51.1,52.14,20.7,0
+806,Oumar Tour,M,20,159,57,50.63,51.04,19.9,0
+807,Alexandra Touretski,F,21,170,58,57.12,58.775,19.35,0
+808,Kira Toussaint,F,22,174,72,58.49,58.97,11.9,0
+809,Norbert Trandafir,M,28,190,85,53.42,54.519999999999996,12.600000000000001,0
+810,Luisa Trombetti,F,22,173,67,54.63,57.894999999999996,14.75,0
+811,Nikita Dmitriyevich Tsmyg,M,19,190,80,51.88,53.68,18.0,0
+812,Yevgeny Nikolayevich Tsurkin,M,25,182,77,51.96,53.775,22.15,0
+813,Federico Turrini,M,29,193,87,54.73,55.22,12.5,0
+814,Chlo Marianne  Tutton,F,20,169,60,56.26,58.73666666666666,18.53333333333333,0
+815,Dustin Tynes,M,20,185,75,53.2,54.35,11.4,0
+816,Anastasiya Tyurina,F,14,165,50,58.26,59.4,16.7,0
+817,Miki Uchida,F,21,173,62,58.73,61.123333333333335,13.366666666666667,0
+818,Maria Ugolkova,F,27,173,65,58.63,59.48666666666666,13.766666666666666,0
+819,Aleksandra Urbaczyk-Olejarczyk,F,28,172,62,56.32,57.375,20.4,0
+820,Darya Konstantinovna Ustinova,F,17,183,70,54.83,57.76666666666667,17.166666666666668,0
+821,Nida Eliz stnda,F,19,179,69,61.09,61.49,17.4,0
+822,Elsie Uwamahoro,F,27,165,56,56.28,56.35,17.1,0
+823,Miguel Leite Valente,M,23,176,70,49.33,50.29,7.4,0
+824,Jessica Vall Montero,F,27,163,52,57.73,58.730000000000004,17.200000000000003,0
+825,Martina Eva van Berkel,F,27,166,54,56.5,58.20333333333334,16.9,0
+826,Cameron van der Burgh,M,28,185,85,48.12,52.72666666666667,19.7,1
+827,Maud van der Meer,F,24,180,64,62.06,62.14,15.4,0
+828,Chantal Jean Van Landeghem,F,22,180,77,53.2,57.88,21.775,1
+829,Evan Van Moerkerke,M,22,205,110,51.78,51.85,11.5,0
+830,Sharon van Rouwendaal,F,22,173,65,52.9,56.575,21.65,1
+831,Arianna Fritzallen Vanderpool-Wallace,F,26,168,61,56.39,57.525,9.7,0
+832,Federico Vanelli,M,25,183,82,56.8,58.11,21.5,0
+833,Emmanuel Vanluchene,M,23,179,71,49.63,51.75333333333333,19.333333333333332,0
+834,Ricardo David Vargas Jacobo,M,18,180,79,49.43,50.18,18.3,0
+835,Andreas Vazaios,M,22,190,85,54.7,55.25,14.6,0
+836,Lus Emigdio Vega Torres,M,17,179,69,56.29,56.96,15.8,0
+837,Joeri Jordi Verlinden,M,28,181,75,52.82,53.44,18.1,0
+838,Esmee Vermeulen,F,20,180,64,54.35,54.37,17.2,0
+839,David Verraszt,M,27,180,78,50.07,50.11,8.5,0
+840,Evelyn Verraszt,F,27,173,62,58.59,59.535,14.0,0
+841,Sebastiaan Clemens Verschuren,M,27,192,84,52.11,54.053333333333335,19.53333333333333,0
+842,Adam Viktora,M,19,188,94,51.95,53.29,12.4,0
+843,Mara Vilas Vidal,F,20,168,64,52.41,57.205,20.4,0
+844,Erika Villacija Garca,F,32,177,61,59.38,61.47,15.1,0
+845,Danielle Villars,F,23,178,62,58.19,59.47,13.6,0
+846,Bradley Vincent,M,24,195,89,54.21,55.51,11.8,0
+847,Florian Vogel,M,21,180,70,51.79,52.685,14.850000000000001,0
+848,Dana Whitney Vollmer (-Grant),F,28,185,68,53.48,54.830000000000005,31.7,1
+849,Christian vom Lehn,M,24,190,78,51.85,53.815,15.05,0
+850,Kristel Vourna,F,24,174,61,65.79,66.05,14.5,0
+851,Tjaa Vozel,F,22,171,62,61.87,62.25,21.7,0
+852,"Christopher James ""Chris"" Walker-Hebborn",M,26,184,84,51.69,53.58,13.6,1
+853,"Daniel ""Dan"" Wallace",M,23,188,80,47.2,52.185,21.2,1
+854,Wang Shijia,F,22,174,63,58.64,59.07,23.6,0
+855,Wang Shun,M,22,191,74,48.13,52.379999999999995,23.35,1
+856,Wang Xueer,F,18,178,67,57.35,58.84,17.6,0
+857,Ippei Watanabe,M,19,193,76,49.16,52.465,14.3,0
+858,Kanako Watanabe,F,19,167,60,57.87,59.03,13.899999999999999,0
+859,Marie Wattel,F,19,181,71,56.95,57.59,14.2,0
+860,Michelle Weber,F,19,166,63,63.43,63.8,10.8,0
+861,Ferry Weertman,M,24,189,86,47.55,48.14,28.0,1
+862,Richard Weinberger,M,26,184,72,52.44,53.08,11.7,0
+863,Amanda Jo Weir (-Davis),F,30,188,77,54.1,54.45,29.7,1
+864,Abbey Weitzeil,F,19,178,68,52.53,55.57,22.2,1
+865,Florian Wellbrock,M,18,185,70,54.39,55.85,26.5,0
+866,Alexandra Nathalie Wenk,F,21,180,63,56.07,59.42333333333334,15.799999999999999,0
+867,Magnus Westermann,M,21,194,94,52.99,54.12,13.2,0
+868,Damian Matthias Armin Wierling,M,20,196,74,50.91,53.3175,17.625,0
+869,Jordan Wilimovsky,M,22,175,68,52.06,53.870000000000005,15.799999999999999,0
+870,Katarzyna Maria Wilk,F,24,178,64,60.53,61.96,12.1,0
+871,Michelle Williams (-Toro),F,25,175,67,52.94,56.34,25.25,1
+872,Andrew Willis,M,25,188,85,52.39,53.31,17.5,0
+873,Aimee Willmott,F,23,171,66,57.51,60.065,11.3,0
+874,"Madison ""Madi"" Wilson",F,22,179,61,52.62,55.21,27.899999999999995,1
+875,Wojciech Wojdak,M,21,186,84,52.87,54.82,17.9,0
+876,Philipp Wolf,M,23,196,96,52.76,53.02,9.4,0
+877,Won Young-Jun,M,18,187,83,55.15,56.03,14.6,0
+878,Kelsi Worrell,F,22,180,75,53.52,56.53,21.5,1
+879,Wu Yuhang,M,19,178,72,50.94,52.56,15.8,0
+880,"Timothy ""Tim"" Wynter",M,20,188,66,52.4,53.29,20.0,0
+881,Filip Wypych,M,25,183,75,49.56,50.28,9.3,0
+882,Xin Xin,F,19,169,61,63.55,63.86,14.9,0
+883,Xu Jiayu,M,20,187,78,48.76,52.14333333333334,21.3,1
+884,Misaki Yamaguchi,F,26,165,60,60.54,60.88,21.4,0
+885,Yan Zibei,M,20,190,75,52.24,52.54,13.4,0
+886,Ye Shiwen,F,20,173,64,55.52,57.04,15.05,0
+887,Yuliya Andreyevna Yefimova,F,24,178,64,53.05,56.10333333333333,23.7,1
+888,Yessy Venisia Yosaputra,F,21,167,62,61.52,61.88,12.3,0
+889,Yu Hexin,M,20,194,87,51.58,54.693333333333335,19.0,0
+890,Yu Jingyao,F,17,178,63,60.02,60.18,13.9,0
+891,Filip Zaborowski,M,22,188,77,50.42,50.69,18.3,0
+892,Joanna Zachoszcz,F,23,177,66,56.54,58.09,19.1,0
+893,Lisa Zaiser,F,21,174,63,56.34,57.42,19.1,0
+894,frica Zamorano Sanz,F,18,170,58,55.72,57.69,13.866666666666667,0
+895,Vsevolod Vladimirovich Zanko,M,21,190,85,53.08,53.46,11.3,0
+896,Barbora Zvadov,F,23,177,68,57.45,58.3,13.25,0
+897,Robert bogar,M,27,183,72,54.66,55.06,12.5,0
+898,Rita Zeqiri,F,20,165,55,56.38,57.32,20.3,0
+899,Daryna Yurivna Zevina,F,21,178,67,52.48,52.76,19.0,0
+900,Zhang Qibin,M,22,185,85,55.61,55.8,12.3,0
+901,Zhang Xinyu,F,19,166,60,57.51,58.905,20.35,0
+902,Zhang Yufei,F,18,174,57,59.49,59.73,17.2,0
+903,Zhang Yuhan,F,21,173,60,59.27,60.18,13.299999999999999,0
+904,Lum Zhaveli,M,26,194,88,52.27,52.65,18.1,0
+905,Zhou Min,F,18,172,64,57.74,59.185,14.2,0
+906,Zhou Yilin,F,23,175,63,58.06,58.18,17.5,0
+907,Zhu Menghui,F,17,177,62,57.78,59.620000000000005,11.466666666666667,0
+908,Carlotta Zofkova Costa de Saint Genix de Beauregard,F,23,183,74,58.28,58.81,13.2,0
+909,Zu Lijun,M,26,188,87,52.3,52.97,11.2,0
+910,Anastasiya Valeryevna Zuyeva-Fesikova,F,26,182,71,58.34,60.673333333333325,17.766666666666666,0
