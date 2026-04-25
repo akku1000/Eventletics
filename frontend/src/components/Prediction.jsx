@@ -68,12 +68,12 @@ const Prediction = () => {
             className="w-full px-3 py-2 bg-gray-700 text-white rounded-md"
           />
 
-          <input placeholder="Best Time (100m)"
+          <input placeholder="Best Time (400m)"
             onChange={(e)=>setFormData({...formData, bestTime:e.target.value})}
             className="w-full px-3 py-2 bg-gray-700 text-white rounded-md"
           />
 
-          <input placeholder="Average Time (100m)"
+          <input placeholder="Average Time (400m)"
             onChange={(e)=>setFormData({...formData, avgTime:e.target.value})}
             className="w-full px-3 py-2 bg-gray-700 text-white rounded-md"
           />
